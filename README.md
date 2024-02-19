@@ -1,7 +1,7 @@
 Hi 👋 My name is Stanislav Temelkov
 ===================================
 
-Junior .NET Developer
+Full-stack Software Engineer
 ---------------------
 
 * 🌍  I'm based in Bulgaria
