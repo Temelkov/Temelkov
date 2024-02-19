@@ -1,7 +1,7 @@
 Hi 👋 My name is Stanislav Temelkov
 ===================================
 
-Full-stack Software Engineer
+Full Stack Software Engineer
 ---------------------
 
 * 🌍  I'm based in Bulgaria
