@@ -5,9 +5,9 @@ Full Stack Software Engineer
 ---------------------
 
 * 🌍  I'm based in Bulgaria
-* 🖥️  See my portfolio at [TEMELKOV.TK](http://temelkov.tk)
+* 🖥️  See my portfolio at [TEMELKOV.IS-A.DEV](http://temelkov.is-a.dev)
 * ✉️  You can contact me at [stanislav.temelkov@hotmail.com](mailto:stanislav.temelkov@hotmail.com)
-* 🧠  I'm learning Software Engineering
+* 🧠  Graduated Software Engineer
 
 ### Skills
 
